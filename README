@@ -1,0 +1,4 @@
+mongodb password: lauraamor4
+
+mongodb string connection: 
+mongodb+srv://calegari:<password>@cluster0.rz7m5.gcp.mongodb.net/?retryWrites=true&w=majority
