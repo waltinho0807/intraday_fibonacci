@@ -6,7 +6,7 @@
   "type": "module",
   "scripts": {
     "dev": "nodemon index.js",
-    "server": "nodemon server.js",
+    "server": "node index.js",
     "db": "nodemon db_v2.js",
     "bot": "nodemon bot_v2.js"
   },
